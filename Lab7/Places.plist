@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>California Science Center</string>
+		<key>image</key>
+		<string>california_science_center.jpg</string>
+		<key>website</key>
+		<string>https://californiasciencecenter.org</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Dodger Stadium</string>
+		<key>image</key>
+		<string>dodger_stadium.jpg</string>
+		<key>website</key>
+		<string>https://www.mlb.com/dodgers</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Griffith Observatory</string>
+		<key>image</key>
+		<string>griffith_observatory.jpg</string>
+		<key>website</key>
+		<string>https://en.wikipedia.org/wiki/Griffith_Observatory</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Disneyland</string>
+		<key>image</key>
+		<string>disneyland.jpg</string>
+		<key>website</key>
+		<string>https://disneyland.disney.go.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Six Flags Magic Mountain</string>
+		<key>image</key>
+		<string>six_flags_magic_mountain.jpg</string>
+		<key>website</key>
+		<string>https://www.sixflags.com/magicmountain</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Universal Studios</string>
+		<key>image</key>
+		<string>universal_studios.jpg</string>
+		<key>website</key>
+		<string>https://www.universalstudioshollywood.com</string>
+	</dict>
+</array>
+</plist>
